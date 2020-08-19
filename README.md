@@ -1,1 +1,1 @@
-# GTL-repo
+# gtl-repository
